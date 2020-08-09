@@ -25,7 +25,7 @@ Status no GitHub:
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=JuanVieiraPrado&show_icons=true&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api?username=JuanVieiraPrado&show_icons=true">
   <br>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JuanVieiraPrado&layout=compact">
 </p>
