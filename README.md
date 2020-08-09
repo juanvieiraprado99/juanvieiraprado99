@@ -1,5 +1,5 @@
 ## Olá 👋 meu nome é Juan!
-Eu estou no caminho de me tornar um desenvolvedor web, me encontrei nesse caminho após realizar a  **[Next Level Week](https://nextlevelweek.com/)**, evento realizado pela **[@Rocketseat](https://github.com/Rocketseat)**, onde você aprender a desenvolver uma aplicação desde o zero.
+Eu estou no caminho de me tornar um desenvolvedor web, me encontrei nesse caminho após realizar a  **[Next Level Week](https://nextlevelweek.com/)**, evento realizado pela **[@Rocketseat](https://github.com/Rocketseat)**, onde você aprende a desenvolver uma aplicação desde o zero.
 
 - 👨‍💻 Estou me aprofundando em conhecimentos sobre o desenvolvimento web.
 - 😊 Estou disposto a contribuir em projetos de código aberto.
