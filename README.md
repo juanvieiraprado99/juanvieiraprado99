@@ -15,7 +15,7 @@ Redes sociais,
 [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://juanvieiraprado99.github.io/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/juanvieiraprado/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/juandark1999/?hl=pt-br)
-![Visits Badge](https://badges.pufler.dev/visits/JuanVieiraPrado/JuanVieiraPrado?style=for-the-badge ) 
+![Visits Badge](https://badges.pufler.dev/visits/juanvieiraprado99/juanvieiraprado99?style=for-the-badge ) 
 
 </p>
 
@@ -25,9 +25,9 @@ Status no GitHub:
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=JuanVieiraPrado&show_icons=true">
+  <img src = "https://github-readme-stats.vercel.app/api?username=juanvieiraprado99&show_icons=true">
   <br>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JuanVieiraPrado&layout=compact">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=juanvieiraprado99&layout=compact">
 </p>
 
 Minhas Stacks:
