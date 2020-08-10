@@ -4,7 +4,7 @@ Eu estou no caminho de me tornar um desenvolvedor web, me encontrei nesse caminh
 - 👨‍💻 Estou me aprofundando em conhecimentos sobre o desenvolvimento web.
 - 😊 Estou disposto a contribuir em projetos de código aberto.
 - 👍 Estou aberto para propostas de estágio / tempo integral.
-- 🌐 Visite o meu [Portfólio](https://JuanVieiraPrado.github.io) para me conhecer melhor.
+- 🌐 Visite o meu [Portfólio](https://juanvieiraprado.github.io) para me conhecer melhor.
 
 Redes sociais,
 
