@@ -30,6 +30,15 @@ Status no GitHub:
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=juanvieiraprado99&layout=compact">
 </p>
 
+---
+
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
+
+---
+
 Minhas Stacks:
 
 <p align = "center">
