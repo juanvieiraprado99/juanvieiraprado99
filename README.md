@@ -32,16 +32,6 @@ Status no GitHub:
 
 ---
 
-<!--START_SECTION:waka-->
-```text
-YAML       35 mins         █████████░░░░░░░░░░░░░░░░   39.11 % 
-Markdown   35 mins         █████████░░░░░░░░░░░░░░░░   39.01 % 
-Other      19 mins         █████░░░░░░░░░░░░░░░░░░░░   21.88 %
-```
-<!--END_SECTION:waka-->
-
----
-
 Minhas Stacks:
 
 <p align = "center">
