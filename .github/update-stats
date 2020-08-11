@@ -13,8 +13,8 @@ jobs:
     steps:
       - uses: juanvieiraprado99/juanvieiraprado99@master #PLEASE USE MASTER BRANCH
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY=98140902-e60d-4c2d-829a-9d4f682a0f41 }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN=4a3a125551a25bd6b499e6314e1b802771d4eca7 }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_PROJECTS: "False"
           SHOW_LINES_OF_CODE: "True"
           SHOW_PROFILE_VIEWS: "True"
