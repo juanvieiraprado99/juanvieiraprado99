@@ -45,12 +45,14 @@ Eu estou no caminho de me tornar um desenvolvedor web, me encontrei nesse caminh
 
 ## 🔧 Linguagens e ferramentas
  
-<img src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5" height="50px">
-<img src="https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3" height="50px">
-<img src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown" height="50px">
-<img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" height="50px">
-<img src="https://img.shields.io/badge/-C_Sharp-000000?style=flat&logo=c-sharp" height="50px">
-<img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git" height="50px">
-<img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github" height="50px">
+<p align="center">
+  <a href=""><img src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5" height="50px"></a>
+  <a href=""><img src="https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3" height="50px"></a>
+  <a href=""><img src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown" height="50px"></a>
+  <a href=""><img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" height="50px"></a>
+  <a href=""><img src="https://img.shields.io/badge/-C_Sharp-000000?style=flat&logo=c-sharp" height="50px"></a>
+  <a href=""><img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git" height="50px"></a>
+  <a href=""><img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github" height="50px"></a>
+</p>
 
 ---
