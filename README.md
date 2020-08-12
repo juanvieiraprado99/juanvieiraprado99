@@ -23,7 +23,7 @@ Eu estou no caminho de me tornar um desenvolvedor web, me encontrei nesse caminh
 [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://juanvieiraprado99.github.io/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/juanvieiraprado/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/juandark1999/?hl=pt-br)
-![Visits Badge](https://badges.pufler.dev/visits/juanvieiraprado99/juanvieiraprado99?style=for-the-badge ) 
+
 
 </p>
 
@@ -40,8 +40,7 @@ Eu estou no caminho de me tornar um desenvolvedor web, me encontrei nesse caminh
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=juanvieiraprado99&show_icons=true" />
 </a>
 
-  <img src = "">
-
+<br>
 
 ---
 
