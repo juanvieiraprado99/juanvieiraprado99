@@ -43,8 +43,8 @@ Eu estou no caminho de me tornar um desenvolvedor web, me encontrei nesse caminh
 ---
 
 ## 🔧 Linguagens e ferramentas
-
-
+ 
+  <p>
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -56,6 +56,6 @@ Eu estou no caminho de me tornar um desenvolvedor web, me encontrei nesse caminh
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
-
+  </p>
 
 ---
