@@ -1,7 +1,7 @@
 ## Olá 👋 meu nome é Juan!
 
 <p align = "center">
-  <a href="https://twitter.com/juanprado99">
+  <a href="">
     <img src="https://profile-counter.glitch.me/juanvieiraprado99/count.svg"/>
   </a>
 </p>
