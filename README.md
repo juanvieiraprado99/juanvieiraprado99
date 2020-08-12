@@ -19,7 +19,6 @@ Eu estou no caminho de me tornar um desenvolvedor web, me encontrei nesse caminh
 
 ## 💬 Redes Sociais
 
-![](https://visitor-badge.glitch.me/badge?page_id=juanvieiraprado99.juanvieiraprado99&?style=flat)
 
 <p align = "center">
 
