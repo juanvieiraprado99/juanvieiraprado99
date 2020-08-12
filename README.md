@@ -1,4 +1,6 @@
-## Olá 👋 meu nome é Juan!
+## Olá 👋 meu nome é Juan!  
+
+<br>
 Eu estou no caminho de me tornar um desenvolvedor web, me encontrei nesse caminho após realizar a  **[Next Level Week](https://nextlevelweek.com/)**, evento realizado pela **[@Rocketseat](https://github.com/Rocketseat)**, onde você aprende a desenvolver uma aplicação desde o zero.
 
 - 👨‍💻 Estou me aprofundando em conhecimentos sobre o desenvolvimento web.
@@ -6,7 +8,13 @@ Eu estou no caminho de me tornar um desenvolvedor web, me encontrei nesse caminh
 - 👍 Estou aberto para propostas de estágio / tempo integral.
 - 🌐 Visite o meu [Portfólio](https://juanvieiraprado99.github.io/) para me conhecer melhor.
 
-Redes sociais,
+
+
+---
+
+## 💬 Redes Sociais
+
+![](https://visitor-badge.glitch.me/badge?page_id=juanvieiraprado99.juanvieiraprado99)
 
 <p align = "center">
 
@@ -20,27 +28,34 @@ Redes sociais,
 </p>
 
 ---
-Status no GitHub: 
+## &#x1f4c8; Status GitHub
 
-<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanvieiraprado99&layout=compact)](https://github.com/juanvieiraprado99/juanvieiraprado99)
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=juanvieiraprado99&show_icons=true">
-  <br>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=juanvieiraprado99&layout=compact">
-</p>
+
+<a href="https://github.com/juanvieiraprado99/juanvieiraprado99">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=juanvieiraprado99&show_icons=true" />
+</a>
+
+  <img src = "">
+
 
 ---
 
-Minhas Stacks:
+## 🔧 Linguagens e ferramentas
 
-<p align = "center">
-  <img src="https://img.shields.io/badge/HTML5%20-%23F05033.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-CSS3-blue?&style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-JavaScript-yellow?&style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C_Sharp-purple?&style=for-the-badge&logo=c-sharp&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
-</p>
+
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
+
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
+
 
 ---
