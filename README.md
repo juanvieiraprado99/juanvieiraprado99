@@ -30,14 +30,15 @@ Eu estou no caminho de me tornar um desenvolvedor web, me encontrei nesse caminh
 ---
 ## &#x1f4c8; Status GitHub
 
+<p align="center">
+  <a href="https://github.com/juanvieiraprado99/juanvieiraprado99">
+    <img src="https://github-readme-stats.vercel.app/api?username=juanvieiraprado99&show_icons=true" />
+  </a>
 
-<a href="https://github.com/juanvieiraprado99/juanvieiraprado99">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanvieiraprado99&show_icons=true" />
-</a>
-
-<a href="https://github.com/juanvieiraprado99/juanvieiraprado99">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanvieiraprado99&layout=compact" />
-</a>
+  <a href="https://github.com/juanvieiraprado99/juanvieiraprado99">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanvieiraprado99&layout=compact" />
+  </a>
+</p>
 
 <br>
 
