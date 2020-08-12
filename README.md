@@ -1,5 +1,10 @@
 ## Olá 👋 meu nome é Juan!
-<img src="https://views.whatilearened.today/views/github/juanvieiraprado99/views.svg"/>
+
+<p align = "center">
+  <a href="https://twitter.com/juanprado99">
+    <img src="https://profile-counter.glitch.me/juanvieiraprado99/count.svg"/>
+  </a>
+</p>
 
 <br>
 Eu estou no caminho de me tornar um desenvolvedor web, me encontrei nesse caminho após realizar a  **[Next Level Week](https://nextlevelweek.com/)**, evento realizado pela **[@Rocketseat](https://github.com/Rocketseat)**, onde você aprende a desenvolver uma aplicação desde o zero.
