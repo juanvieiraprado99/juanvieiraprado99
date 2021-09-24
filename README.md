@@ -11,7 +11,7 @@ Eu estou no caminho de me tornar um desenvolvedor web, me encontrei nesse caminh
 - 👨‍💻 Estou me aprofundando em conhecimentos sobre o desenvolvimento web.
 - 😊 Estou disposto a contribuir em projetos de código aberto.
 - 👍 Estou aberto para propostas de estágio / tempo integral.
-- 🌐 Visite o meu [Portfólio](https://juanvieiraprado99.netlify.app) para me conhecer melhor.
+- 🌐 Visite o meu [Portfólio](https://juanvieiraprado.netlify.app) para me conhecer melhor.
 
 
 
@@ -30,7 +30,7 @@ Eu estou no caminho de me tornar um desenvolvedor web, me encontrei nesse caminh
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 
-  <a href="https://juanvieiraprado99.netlify.app">
+  <a href="https://juanvieiraprado.netlify.app">
     <img src="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22" />
   </a>
 
