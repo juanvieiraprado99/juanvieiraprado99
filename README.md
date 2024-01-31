@@ -74,3 +74,7 @@ Eu estou no caminho de me tornar um desenvolvedor web, me encontrei nesse caminh
 </p>
 
 ---
+
+![Snake_animation](https://github.com/juanvieiraprado99/juanvieiraprado99/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://ithub-readme-stats.vercel.app/api/pin/?username=juanvieiraprado99&repo=juanvieiraprado99&themereact)](https://github.com/juanvieiraprado99/juanvieiraprado99)
