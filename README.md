@@ -75,4 +75,4 @@ Eu estou no caminho de me tornar um desenvolvedor web, me encontrei nesse caminh
 
 ---
 
-![snake gif](https://github.com/juanvieiraprado99/juanvieiraprado99/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/juanvieiraprado99/juanvieiraprado99/blob/output/github-contribution-grid-snake.svg)
