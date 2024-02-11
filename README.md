@@ -4,11 +4,11 @@
 
 <p align="center">Adoro o Front-end, sou familiarizado com ambientes angular, porém estou bem curioso com aplicações React, adoro bibliotecas que possam facilitar a vida do desenvolvedor e espero me tornar desenvolvedor Full-Stack 😁</p>&nbsp;
 
-<a href="https://git.io/typing-svg" style="display: flex;justify-content:center;gap:1rem"><img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=juanvieiraprado99&theme=radical&mode=weekly&locale=pt_BR" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanvieiraprado99&layout=compact&theme=radical" /></a>
- 
- &nbsp;
- &nbsp;
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=juanvieiraprado99&theme=radical&mode=weekly&locale=pt_BR" /><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanvieiraprado99&layout=compact&theme=radical" />
+
+&nbsp;
+&nbsp;
 
 ## Minhas habilidades
 
