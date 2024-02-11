@@ -4,7 +4,7 @@
 
 <p align="center">Adoro o Front-end, sou familiarizado com ambientes angular, porém estou bem curioso com aplicações React, adoro bibliotecas que possam facilitar a vida do desenvolvedor e espero me tornar desenvolvedor Full-Stack 😁</p>&nbsp;
 
-<div style="display: flex;justify-content:center ;gap: 1rem" align="center" style="margin-bottom:100px">
+<div style="display: flex;justify-content:center; align-items:center ;gap: 1rem" align="center" style="margin-bottom:100px">
     <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=juanvieiraprado99&theme=radical&mode=weekly&locale=pt_BR" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanvieiraprado99&layout=compact&theme=radical" />
 </div>
