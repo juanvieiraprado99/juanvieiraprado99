@@ -7,6 +7,8 @@
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=juanvieiraprado99&theme=radical&mode=weekly&locale=pt_BR" /><br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanvieiraprado99&layout=compact&theme=radical" />
 
+<a href="https://app.daily.dev/juandark1999"><img src="https://api.daily.dev/devcards/v2/IdXqRNsOLeXd4LFkZFEAw.png?type=default&r=vzs" width="356" alt="Juan Vieira Prado's Dev Card"/></a>
+
 &nbsp;
 &nbsp;
 
