@@ -11,7 +11,7 @@ Sou desenvolvedor com foco em Front-End, onde acredito que me encontrei, minha m
 #### Frameworks / Bibliotecas:
 
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=angular,react,astro,html,css,scss,express,elysia" />
+  <img src="https://skillicons.dev/icons?i=angular,react,html,css,scss,express,elysia" />
 </a>
 
 #### Linguagens:
